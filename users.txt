@@ -1,0 +1,7 @@
+saahik,saahil,admin,8554058755,saahil@gmail.com
+billy,password,admin,8554058556,billy@gmail.com
+flamehood,password,influencer,8554058556,flamehood@gmail.com
+nike,nike,brand,8554058556,nike@yahoo.com
+nike,nike,brand,8554058556,nike@gmail.com
+nikeadv,nikeadv,advertiser,8554058556,nikeadv@gmail.com
+nikeLOVER,nikeLOVER,advertiser,8554058556,nikelover@gmail.com
